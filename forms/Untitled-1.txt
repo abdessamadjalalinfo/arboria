@@ -10,17 +10,9 @@ $conn = new mysqli($servername, $username, $password, $dbname);
 if ($conn->connect_error) {
   die("Connection failed: " . $conn->connect_error);
 }
-$moi=$_POST['moi'];
-$namee=$_POST['namee'];
-$email=$_POST['email'];
-$phone=$_POST['phone'];
-$regime=$_POST['regime'];
-$datee=$_POST['datee'];
-$zip=$_POST['zip'];
 
-
-
-$sql = " INSERT INTO arboria (moi,namee, email,phone,datee,regime,zip) VALUES ( '$moi', '$namee', '$email' , '$phone','$datee','$regime','$zip') ";
+$sql = "INSERT INTO arboria (moi, ,name, email,phone,date,regime,zip)
+VALUES ('$_POST['moi']', '$_POST['name']', '$_POST['email']','$_POST['phone']','$_POST['date']','$_POST['regime']''$_POST['zip']')";
 
 if ($conn->query($sql) === TRUE) {
   echo "New record created successfully";
