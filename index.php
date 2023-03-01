@@ -356,8 +356,8 @@
               8 Rue d’Estienne d’Orves,<br>
               94000 Créteil,<br>
               France <br><br>
-              <strong>Télephonehone:</strong> +1 5589 55488 55<br>
-              <strong>Email:</strong> info@example.com<br>
+              <strong>Télephonehone:</strong> 01 02 56 03 03<br>
+              <strong>Email:</strong> contact@conseilassur.info<br>
             </p>
           </div>
 
