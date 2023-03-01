@@ -133,34 +133,7 @@
 
         <div class="row">
 
-          <div class="col-lg-5 d-flex align-items-stretch">
-            <div class="info">
-              <div class="address">
-                <i class="bi bi-geo-alt"></i>
-                <h4>Adresse:</h4>
-                <p>5 Rue d’Estienne d’Orves, 94000 Créteil, France
-
-                </p>
-              </div>
-
-              <div class="email">
-                <i class="bi bi-envelope"></i>
-                <h4>Email:</h4>
-                <p>contact@conseilassur.info</p>
-              </div>
-
-              <div class="phone">
-                <i class="bi bi-phone"></i>
-                <h4>Téléphone:</h4>
-                <p>01 02 56 03 03</p>
-              </div>
-
-              <iframe src="https://maps.google.com/maps?width=100%25&amp;height=600&amp;hl=en&amp;q=Cr%C3%A9teil+(Rue%20d%E2%80%99Estienne%20d%E2%80%99Orves)&amp;t=&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed" frameborder="0" style="border:0; width: 100%; height: 290px;" allowfullscreen></iframe>
-            </div>
-
-          </div>
-
-          <div  class="col-lg-7 mt-5 mt-lg-0 d-flex align-items-stretch">
+        <div  class="col-lg-7 mt-5 mt-lg-0 d-flex align-items-stretch">
             <form   action="forms/contact.php" method="post" role="form" class="php-email-form">
               <div  class="row">
                 
@@ -220,6 +193,34 @@
               <div class="text-center"><button type="submit">Demander le devis gratuitement</button></div>
             </form>
           </div>
+          <div class="col-lg-5 d-flex align-items-stretch">
+            <div class="info">
+              <div class="address">
+                <i class="bi bi-geo-alt"></i>
+                <h4>Adresse:</h4>
+                <p>5 Rue d’Estienne d’Orves, 94000 Créteil, France
+
+                </p>
+              </div>
+
+              <div class="email">
+                <i class="bi bi-envelope"></i>
+                <h4>Email:</h4>
+                <p>contact@conseilassur.info</p>
+              </div>
+
+              <div class="phone">
+                <i class="bi bi-phone"></i>
+                <h4>Téléphone:</h4>
+                <p>01 02 56 03 03</p>
+              </div>
+
+              <iframe src="https://maps.google.com/maps?width=100%25&amp;height=600&amp;hl=en&amp;q=Cr%C3%A9teil+(Rue%20d%E2%80%99Estienne%20d%E2%80%99Orves)&amp;t=&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed" frameborder="0" style="border:0; width: 100%; height: 290px;" allowfullscreen></iframe>
+            </div>
+
+          </div>
+
+          
 
         </div>
 
@@ -238,18 +239,18 @@
           <div class="col-lg-6">
             
             <ul>
-              <li><i class="ri-check-double-line"></i> Arboria, société par actions simplifiée est active depuis plus de 6 ans. Implantée à Creteil (94000), elle est spécialisée dans le secteur des activités des agents et courtiers d’assurances.
+              <li><i class="ri-check-double-line"></i> Elly Assurance, société par actions simplifiée est active depuis plus de 6 ans. Implantée à Creteil (94000), elle est spécialisée dans le secteur des activités des agents et courtiers d’assurances.
               </li>
-              <li><i class="ri-check-double-line"></i> Arboria est responsable de traiter vos données personnelles, notamment les données personnelles collectées via notre site Internet. Ceci dit, Arboria est responsable de la façon dont vos données sont traitées.
+              <li><i class="ri-check-double-line"></i> Elly Assurance est responsable de traiter vos données personnelles, notamment les données personnelles collectées via notre site Internet. Ceci dit, Elly Assurance est responsable de la façon dont vos données sont traitées.
               </li>
-              <li><i class="ri-check-double-line"></i> La plupart des données personnelles traitées proviennent directement des données saisies par les utilisateurs de Arboria pendant leur demande de devis. Les données collectées sont nécessaires pour obtenir des informations de comparaison et obtenir des devis. </li>
+              <li><i class="ri-check-double-line"></i> La plupart des données personnelles traitées proviennent directement des données saisies par les utilisateurs de Elly Assurance pendant leur demande de devis. Les données collectées sont nécessaires pour obtenir des informations de comparaison et obtenir des devis. </li>
             </ul>
           </div>
           <div class="col-lg-6 pt-4 pt-lg-0">
             <p>
-              Chez Arboria nous nous engageons à protéger vos données personnelles, à les traiter avec respect et à considérer leur protection lors de la conception de nos produits et services. Il s’agit d’une politique de confidentialité conçue pour vous aider à comprendre pleinement comment nous collectons, utilisons et protégeons vos données personnelles.
+              Chez Elly Assurance nous nous engageons à protéger vos données personnelles, à les traiter avec respect et à considérer leur protection lors de la conception de nos produits et services. Il s’agit d’une politique de confidentialité conçue pour vous aider à comprendre pleinement comment nous collectons, utilisons et protégeons vos données personnelles.
 
-              En communiquant vos données personnelles à Arboria, vous acceptez leur utilisation comme décrit ci-dessous. Quand vous nous fournissez des données personnelles d’un tiers, vous confirmez avoir préalablement obtenu leur consentement.
+              En communiquant vos données personnelles à Elly Assurance, vous acceptez leur utilisation comme décrit ci-dessous. Quand vous nous fournissez des données personnelles d’un tiers, vous confirmez avoir préalablement obtenu leur consentement.
 
             </p>
             
@@ -356,8 +357,8 @@
               8 Rue d’Estienne d’Orves,<br>
               94000 Créteil,<br>
               France <br><br>
-              <strong>Télephonehone:</strong> 01 02 56 03 03<br>
-              <strong>Email:</strong> contact@conseilassur.info<br>
+              <strong>Télephonehone:</strong> +1 5589 55488 55<br>
+              <strong>Email:</strong> info@example.com<br>
             </p>
           </div>
 
@@ -369,7 +370,7 @@
 
     <div class="container footer-bottom clearfix">
       <div class="copyright">
-        &copy; Copyright 2023<strong><span>Arboria</span></strong>. Tous droits réservés
+        &copy; Copyright 2023<strong><span>Elly Assurance</span></strong>. Tous droits réservés
       </div>
       <div class="credits">
         <!-- All the links in the footer should remain intact. -->
