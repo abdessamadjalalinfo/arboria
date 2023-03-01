@@ -238,18 +238,18 @@
           <div class="col-lg-6">
             
             <ul>
-              <li><i class="ri-check-double-line"></i> Elly Assurance, société par actions simplifiée est active depuis plus de 6 ans. Implantée à Creteil (94000), elle est spécialisée dans le secteur des activités des agents et courtiers d’assurances.
+              <li><i class="ri-check-double-line"></i> Arboria, société par actions simplifiée est active depuis plus de 6 ans. Implantée à Creteil (94000), elle est spécialisée dans le secteur des activités des agents et courtiers d’assurances.
               </li>
-              <li><i class="ri-check-double-line"></i> Elly Assurance est responsable de traiter vos données personnelles, notamment les données personnelles collectées via notre site Internet. Ceci dit, Elly Assurance est responsable de la façon dont vos données sont traitées.
+              <li><i class="ri-check-double-line"></i> Arboria est responsable de traiter vos données personnelles, notamment les données personnelles collectées via notre site Internet. Ceci dit, Arboria est responsable de la façon dont vos données sont traitées.
               </li>
-              <li><i class="ri-check-double-line"></i> La plupart des données personnelles traitées proviennent directement des données saisies par les utilisateurs de Elly Assurance pendant leur demande de devis. Les données collectées sont nécessaires pour obtenir des informations de comparaison et obtenir des devis. </li>
+              <li><i class="ri-check-double-line"></i> La plupart des données personnelles traitées proviennent directement des données saisies par les utilisateurs de Arboria pendant leur demande de devis. Les données collectées sont nécessaires pour obtenir des informations de comparaison et obtenir des devis. </li>
             </ul>
           </div>
           <div class="col-lg-6 pt-4 pt-lg-0">
             <p>
-              Chez Elly Assurance nous nous engageons à protéger vos données personnelles, à les traiter avec respect et à considérer leur protection lors de la conception de nos produits et services. Il s’agit d’une politique de confidentialité conçue pour vous aider à comprendre pleinement comment nous collectons, utilisons et protégeons vos données personnelles.
+              Chez Arboria nous nous engageons à protéger vos données personnelles, à les traiter avec respect et à considérer leur protection lors de la conception de nos produits et services. Il s’agit d’une politique de confidentialité conçue pour vous aider à comprendre pleinement comment nous collectons, utilisons et protégeons vos données personnelles.
 
-              En communiquant vos données personnelles à Elly Assurance, vous acceptez leur utilisation comme décrit ci-dessous. Quand vous nous fournissez des données personnelles d’un tiers, vous confirmez avoir préalablement obtenu leur consentement.
+              En communiquant vos données personnelles à Arboria, vous acceptez leur utilisation comme décrit ci-dessous. Quand vous nous fournissez des données personnelles d’un tiers, vous confirmez avoir préalablement obtenu leur consentement.
 
             </p>
             
@@ -369,7 +369,7 @@
 
     <div class="container footer-bottom clearfix">
       <div class="copyright">
-        &copy; Copyright 2023<strong><span>Elly Assurance</span></strong>. Tous droits réservés
+        &copy; Copyright 2023<strong><span>Arboria</span></strong>. Tous droits réservés
       </div>
       <div class="credits">
         <!-- All the links in the footer should remain intact. -->
